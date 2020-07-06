@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Chocolate Galak",
+      "totalCount": 50,
+      "description": "Cerveza Heineken 330 ML Sixpack",
+      "validThru": "2017-08-15",
+      "inWarehouseSince": "2017-08-16"
+    },
+    {
+      "id": 3,
+      "name": "Cerveza Heineken 330 ml",
+      "totalCount": 50,
+      "description": "Cerveza Heineken 330 ml",
+      "validThru": "2017-08-15",
+      "inWarehouseSince": "2017-08-16"
+    },
+    {
+      "name": "Chocolate Manicho",
+      "description": "Chocolate Cool",
+      "validThru": "2022-02-02",
+      "inWarehouseSince": "2020-07-05",
+      "totalCount": 5,
+      "id": "7tpfdccv589"
+    }
+  ]
+}

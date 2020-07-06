@@ -1,13 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="012e12f3-ea40-4644-984b-f155c99c61af" name="Default Changelist" comment="" />
+    <list default="true" id="012e12f3-ea40-4644-984b-f155c99c61af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/joseignacioguerrero.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/simple-store-inventory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commitlint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock-db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/@types/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/Icons/AddCircle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/Icons/Close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/Icons/Create.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/Icons/Delete.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/Icons/Logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/BaseComponents/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/CustomInputs/Input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/CustomInputs/TextArea.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/DeleteProductModal/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Forms/CreateProductForm/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Forms/EditProductForm/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/LoadingSpinner/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/PageLayout/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ProductItemActions/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ProductList/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ProductListItem/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ProductTable/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ProductTableItem/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/SummaryProductListHeader/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/SummaryProductsList/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Context/ProductsContext.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hooks/useMediaQueryDetector.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hooks/useProductsContexProvider.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hooks/useProductsContext.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/CreateProductPage/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/EditProductPage/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/HomePage/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Styles/BaseStyles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Styles/GlobalStyles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Styles/theme.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eHOhhHhaxJxW2FTVIdEo96OtPC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -18,8 +80,24 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Assets/Icons" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Client" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,10 +110,38 @@
       <option name="presentableId" value="Default" />
       <updated>1593975172412</updated>
       <workItem from="1593975176806" duration="39000" />
+      <workItem from="1593975306786" duration="30472000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2504" y="430" key="#ESLint" timestamp="1593995834803">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2504" y="430" key="#ESLint/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1593995834803" />
+    <state x="2379" y="340" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593985738214">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2379" y="340" key="#com.intellij.fileTypes.FileTypeChooser/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1593985738214" />
+    <state x="2149" y="179" key="SettingsEditor" timestamp="1593995749760">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2149" y="179" key="SettingsEditor/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1593995749760" />
+    <state x="2348" y="279" width="584" height="550" key="find.popup" timestamp="1594016903334">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2348" y="279" width="584" height="550" key="find.popup/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1594016903334" />
+    <state x="2305" y="255" key="run.anything.popup" timestamp="1594008330392">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2305" y="255" key="run.anything.popup/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1594008330392" />
+    <state x="2305" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1594017970096">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2305" y="241" width="670" height="676" key="search.everywhere.popup/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1594017970096" />
+    <state x="2305" y="241" width="670" height="676" key="search.everywhere.popup/1680.0.1920.1080/0.23.1680.973@1680.0.1920.1080" timestamp="1593982349195" />
   </component>
 </project>
