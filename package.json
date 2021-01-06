@@ -32,7 +32,7 @@
     "@types/react-dom": "^16.9.0",
     "@types/react-helmet": "^6.0.0",
     "@types/react-modal": "^3.10.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "axios-hooks": "^2.1.0",
     "babel-plugin-styled-components": "^1.10.7",
     "formik": "^2.1.4",
